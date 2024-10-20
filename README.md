@@ -31,6 +31,7 @@ Welcome to the Next Generation Technology project! This is a responsive website 
 
 <img width="1440" alt="Screenshot 2024-10-19 at 8 06 15 PM" src="https://github.com/user-attachments/assets/c2851b1d-a618-41ec-8c04-183311d1b973">
 
+<img width="439" alt="Screenshot 2024-10-19 at 8 11 44 PM" src="https://github.com/user-attachments/assets/1f7c67af-e69d-41ad-9e84-d3465eeec352">
 
 
 
